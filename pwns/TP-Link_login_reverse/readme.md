@@ -12,4 +12,4 @@ I've bought a TP-LINK router for 5GHZ wireless AP. For finding ip address of my 
 
 ## Conclusion
 
-The encryption is not safe enough without standard encrypt method such as AES-512, and the transfer protocol is unsafe without `https`. But on the other hand, it is unnecessary for safer because it is used in the normal home LAN environment.
+The encryption is not safe enough without standard encrypt method such as AES-256, and the transfer protocol is unsafe without `https`. But on the other hand, it is unnecessary for safer because it is used in the normal home LAN environment.

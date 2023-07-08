@@ -1,6 +1,5 @@
 from urllib import request
-from json import dumps as jsonMarshal
-from json import loads as jsonUnMarshal
+from json import dumps as jsonMarshal, loads as jsonUnMarshal
 from re import Match as rMatch, search as rSearch
 from argparse import ArgumentParser
 
